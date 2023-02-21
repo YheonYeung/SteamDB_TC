@@ -1,6 +1,6 @@
 {
   "DOC": {
-    "更新時間": "2021-12-17",
+    "更新時間": "2023-02-21",
     "文件說明": "STATIC: 靜態元素字典, INPUT: 輸入框字典, DYNAMIC: 動態元素字典",
     "STATIC說明": "key為CSS選擇器,value為翻譯字典. 只匹配被選擇的元素中的textNode元素",
     "INPUT說明": "key為placeholder內容,value為翻譯文本",
