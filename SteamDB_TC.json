@@ -70,7 +70,7 @@
       "players right now": " 目前線上",
       "24-hour peak": " 24小時峰值",
       "all-time peak": " 歷史峰值 ",
-      "followers": " 跟隨者",
+      "followers": " 關注者",
       "in top sellers": " 暢銷榜排名",
       "positive reviews": " 好評數",
       "negative reviews": " 差評數",
@@ -161,7 +161,7 @@
       "Unlock Date": "達成日期",
       "Developer": "開發商",
       "Release Date": "發售時間",
-      "Followers": "跟隨數",
+      "Followers": "關注數",
       "IMAGE": "徽章圖片",
       "MAX LEVEL": "最高等級",
       "FOIL MAX LEVEL": "最高等級(閃亮)",
@@ -236,7 +236,7 @@
       "controller_support": "控制器支援",
       "partial": "部分支援",
       "full": "完全支援",
-      "ReleaseState": "發布狀態",
+      "ReleaseState": "發行狀態",
       "released": "已發售",
       "prerelease": "未發售",
       "has_adult_content": "成人元素",
@@ -321,8 +321,8 @@
       "AlwaysCountsAsOwned": "擁有計數",
       "DevComp": "開發者專用",
       "PreserveOnWishlist": "保留願望清單",
-      "ReleaseStateOverride": "發布狀態覆寫",
-      "ReleaseStateSteamChina": "Steam平台發布狀態",
+      "ReleaseStateOverride": "發行狀態覆寫",
+      "ReleaseStateSteamChina": "Steam平台發行狀態",
       "SteamChinaApproved": "Steam平台審核透過",
       "market_presence": "存在市場",
       "name_localized": "本地化名稱",
@@ -457,8 +457,8 @@
       "Players": "玩家可以 ",
       "can craft trading cards to badges": "合成卡牌",
       "or earn them during special events.": " 或者參與特殊的促銷活動來取得徽章.",
-      "Steam Game Releases by Month": "按月查看 Steam 發布的遊戲",
-      "Steam Game Releases by Year": "按年查看 Steam 發布的遊戲",
+      "Steam Game Releases by Month": "按月查看 Steam 發行的遊戲",
+      "Steam Game Releases by Year": "按年查看 Steam 發行的遊戲",
       "Bundles that include this app": "包含此 APP 的捆綁包",
       "Configuration": "配置",
       "Install Configuration": "安裝配置",
@@ -468,7 +468,7 @@
       "Files": "文件清單",
       "Steam charts": "Steam 圖表",
       "Lifetime player count history": "線上玩家統計歷史",
-      "Steam game hub followers chart": "Steam 社群中心跟隨者圖表",
+      "Steam game hub followers chart": "Steam 社群中心關注者圖表",
       "Monthly breakdown": "月度明細",
       "Depots in this package": "此 SUB 包含的資產",
       "Apps in this package": "此 SUB 包含的 APP",
@@ -671,7 +671,7 @@
       "Valve suggested prices are shown on package pages.": " Valve 建議定價僅在 SUB 頁面顯示."
     },
     ".text-center,.text-center>a": {
-      "We limit upcoming releases view to 30 days by default.": "\n我們預設只顯示未來30天內發布的遊戲.",
+      "We limit upcoming releases view to 30 days by default.": "\n我們預設只顯示未來30天內發行的遊戲.",
       "View more app history entries…": "查看更多 APP 歷史記錄…",
       "View more package history entries…": "查看更多 SUB 歷史記錄…"
     },
@@ -797,7 +797,7 @@
       "Privacy": "隱私"
     },
     "panel>p": {
-      "We track every new build on Steam, and try connect these builds to announcements by the game developers in their hub.": "我們跟蹤 Steam 上的每個版本更新, 並嘗試將這些更新與遊戲開發者發布的更新公告聯繫起來.",
+      "We track every new build on Steam, and try connect these builds to announcements by the game developers in their hub.": "我們跟蹤 Steam 上的每個版本更新, 並嘗試將這些更新與遊戲開發者發行的更新公告聯繫起來.",
       "We also automatically display the list of changed files for every single patch.": "我們還為每個更新自動顯示文件改動清單."
     },
     ".discount-faq>p,.discount-faq>p>span,.discount-faq>p>a": {
