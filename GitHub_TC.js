@@ -293,7 +293,7 @@ I18N.zh["title"] = { // 標題翻譯
         "Third-party application access policy": "第三方應用訪問策略",
         "Audit log": "審計日誌",
         "Deleted Repositories": "已刪除的倉庫",
-        "GitHub Publisher Verification": "GitHub 發布者驗證",
+        "GitHub Publisher Verification": "GitHub 發佈者驗證",
         "Notifications": "通知",
         "Confirm your account recovery settings": "確認您的帳戶恢復設定",
         "Your stars": "我的星標",
@@ -543,7 +543,7 @@ I18N.zh["pubilc"] = { // 公共區域翻譯
             "Write a reply": "發表回復", // 具體討論頁
             "Write a comment": "發表評論", // 具體討論頁
             "Suggest an answer": "提出答覆", // 具體討論頁
-            "Ask a question, start a conversation, or make an announcement": "提出問題、開始討論或發布公告", // 新建討論
+            "Ask a question, start a conversation, or make an announcement": "提出問題、開始討論或發佈公告", // 新建討論
             "Nothing to preview": "沒有什麼可預覽",
             "This repository has been archived.": "此倉庫已存檔。", // 已存檔倉庫 某個提交的評論框
             "Add review comment": "添加審查意見", // 具體拉取請求 文件審查意見
@@ -1348,8 +1348,8 @@ I18N.zh["page-dashboard"] = { // 已登入的首頁 - 儀錶板（含組織）
         "from": "來自",
         "for": "",
         "pushed to": "推送到",
-        "released": "發布了",
-        "published": "發布了",
+        "released": "發佈了",
+        "published": "發佈了",
         "started sponsoring": "贊助給",
         "started following": "開始關注了",
         "you": "您",
@@ -1370,7 +1370,7 @@ I18N.zh["page-dashboard"] = { // 已登入的首頁 - 儀錶板（含組織）
         "launched their sponsorship page 💖": "推出了他們的贊助頁面 💖",
         //[/and (\d+) more/, "和另外 $1 個"],
 
-        "published a release": "發布發行版",
+        "published a release": "發佈發行版",
         "forked a repository": "復刻倉庫",
         "starred a repository": "星標倉庫",
         "sponsored": "贊助了",
@@ -1999,7 +1999,7 @@ I18N.zh["page-profile/packages"] = { // 個人首頁 - 套裝軟體標籤卡
 
         // 套裝軟體標籤卡 ?tab=packages >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             "Get started with GitHub Packages": "開始使用 GitHub 套裝軟體",
-            "Safely publish packages, store your packages alongside your code, and share your packages privately with your team.": "安全地發布包，將您的包與您的代碼一起儲存，並與您的團隊私下共享您的包。",
+            "Safely publish packages, store your packages alongside your code, and share your packages privately with your team.": "安全地發佈包，將您的包與您的代碼一起儲存，並與您的團隊私下共享您的包。",
             "Choose a registry": "選擇註冊表",
             "A software platform used for building applications based on containers — small and lightweight execution environments.": "用於構建基於容器的應用的軟體平台——小型輕量級執行環境。",
             "A default package manager used for the Java programming language and the Java runtime environment.": "用於 Java 程式語言和 Java 運行環境的一個默認包管理器。",
@@ -2029,7 +2029,7 @@ I18N.zh["page-profile/packages"] = { // 個人首頁 - 套裝軟體標籤卡
             "browsing all packages": "瀏覽所有套裝軟體",
             "to find what you're looking for.": "，以找尋您想要的內容。",
 
-            "Published": "發布於",
+            "Published": "發佈於",
 
     },
     "regexp": [ // 正則翻譯
@@ -2294,7 +2294,7 @@ I18N.zh["orgs-settings-menu"] = { // 組織設定 公共部分
 
             "Developer settings": "開發者設定",
                 "OAuth Apps": "OAuth 應用",
-                "Publisher Verification": "發布者驗證",
+                "Publisher Verification": "發佈者驗證",
             "Account settings": "帳戶設定",
 
             "Developer Settings": "開發者設定"
@@ -2365,7 +2365,7 @@ I18N.zh["settings/profile"] = { // 設定 - 個人資料
 
             "Contributions & activity": "貢獻與活動",
                 "Make profile private and hide activity": "將個人資料設定為私密，並隱藏活動",
-                    "Enabling this will hide your contributions and activity from your GitHub profile and from social features like followers, stars, feeds, leaderboards and releases.": "啟用此功能後，您的貢獻和活動將會從您的 GitHub 個人資料中隱藏起來，也不會被關注者、觀星者、動態提要、排行榜和發布等社交功能所發現。",
+                    "Enabling this will hide your contributions and activity from your GitHub profile and from social features like followers, stars, feeds, leaderboards and releases.": "啟用此功能後，您的貢獻和活動將會從您的 GitHub 個人資料中隱藏起來，也不會被關注者、觀星者、動態提要、排行榜和發佈等社交功能所發現。",
                 "Include private contributions on my profile": "在我的個人資料顯示私人貢獻",
                     "Your contribution graph, achievements, and activity overview will show your private contributions without revealing any repository or organization information.": "您的貢獻圖、成就和活動概覽將顯示您的私人貢獻，而不會透露任何倉庫或組織資訊。",
                     "Read more": "了解更多",
@@ -2770,7 +2770,7 @@ I18N.zh["settings/billing"] = { // 設定 - 帳單和計劃
                 "See all features and compare plans": "查看所有功能並比較計劃",
 
             "Start your first organization": "開設您的第一個組織帳戶",
-            "With CI/CD, Dependabot, and the world's largest developer community, GitHub gives your team everything they need to ship better software faster": "借助 CI/CD、Dependabot 和世界上最大的開發者社區，GitHub為您的團隊提供了他們所需的一切，以更快地發布更好的軟體。",
+            "With CI/CD, Dependabot, and the world's largest developer community, GitHub gives your team everything they need to ship better software faster": "借助 CI/CD、Dependabot 和世界上最大的開發者社區，GitHub為您的團隊提供了他們所需的一切，以更快地發佈更好的軟體。",
             "Create an organization": "創建組織",
 
             // [/In addition to your personal account, you manage (\d+) organizations?./, "除了您的個人帳戶之外，您還管理 $1 個組織。"],
@@ -3057,7 +3057,7 @@ I18N.zh["settings/billing"] = { // 設定 - 帳單和計劃
                     // 所需的狀態檢查
                         "Ensure that all required CI tests are passing before collaborators can make changes to a protected branch.": "確保所有必要的 CI 測試通過後，協作者才能對受保護分支進行更改。",
                     "GitHub Security Advisories": "GitHub 安全公告",
-                        "Privately discuss, fix, and publish information about security vulnerabilities found in your repository.": "私人討論，修復和發布倉庫代碼中的安全漏洞的資訊。",
+                        "Privately discuss, fix, and publish information about security vulnerabilities found in your repository.": "私人討論，修復和發佈倉庫代碼中的安全漏洞的資訊。",
                     "Role-based access control": "基於角色的訪問控制",
                         "Define users' level of access to your code, data and settings.": "定義用戶訪問代碼、數據和設定的級別。",
                     "Required 2FA": "雙重身份驗證（2FA）",
@@ -3069,7 +3069,7 @@ I18N.zh["settings/billing"] = { // 設定 - 帳單和計劃
 
                 "Marketplace and integrations": "市場和集成",
                     // Github應用
-                        "Install apps that integrate directly with GitHub's API to improve development workflows – or build your own for private use or publication in the GitHub Marketplace.": "安裝直接與 GitHub API 集成的應用，改進開發工作流程，或創建自己的應用，供個人使用或在 GitHub 市場發布。",
+                        "Install apps that integrate directly with GitHub's API to improve development workflows – or build your own for private use or publication in the GitHub Marketplace.": "安裝直接與 GitHub API 集成的應用，改進開發工作流程，或創建自己的應用，供個人使用或在 GitHub 市場發佈。",
                     "Status checks": "狀態檢查",
                         "Define tests that GitHub automatically runs against code being committed to your repository, and get details about failures and what is causing them.": "定義 GitHub 針對提交到倉庫的代碼自動運行的測試，並獲取有關失敗和失敗原因的詳細資訊。",
                     "Enterprise Server customers create pre-receive hooks to automatically accept or reject a push.": "企業伺服器客戶創建預接收掛鉤，以自動接受或拒絕推送。",
@@ -3896,7 +3896,7 @@ I18N.zh["settings/packages"] = { // 設定 - 套裝軟體
 
             // 組織設定
                 "Package creation": "包的創建",
-                "Members will be able to publish only the selected visibility types for packages and containers. Outside collaborators can never publish packages or containers.": "成員只能發布選定可見性類型的套裝軟體和容器。外部協作者永遠不能發布套裝軟體或容器。",
+                "Members will be able to publish only the selected visibility types for packages and containers. Outside collaborators can never publish packages or containers.": "成員只能發佈選定可見性類型的套裝軟體和容器。外部協作者永遠不能發佈套裝軟體或容器。",
                 "Public": "公共",
                     "Members will be able to create public packages, visible to anyone.": "成員將能夠創建公共包，對任何人都可見。",
                 "Private": "私有",
@@ -3963,7 +3963,7 @@ I18N.zh["settings/pages"] = { // 設定 - GitHub Pages
             "Add a domain": "添加域名",
             "There are no verified domains.": "暫無經驗證的域名",
             "There are no verified domains for this organization.": "此組織暫無經驗證的域名", // 組織設定
-            "Verify domains to restrict who can publish GitHub Pages on them.": "驗證域名以限制誰可以在上面發布 GitHub Pages。",
+            "Verify domains to restrict who can publish GitHub Pages on them.": "驗證域名以限制誰可以在上面發佈 GitHub Pages。",
             "One of your domains is unverified. Please verify it to prevent others from claiming it for their Pages sites.": "您添加的域名之一未經驗證，請對其進行驗證，以防止其他人在其首頁網站上聲明該資訊。",
             "Please verify your domain": "請驗證您的域名",
             "Continue verifying": "繼續驗證",
@@ -3972,7 +3972,7 @@ I18N.zh["settings/pages"] = { // 設定 - GitHub Pages
             // 域名刪除對話框
             "Delete verified domain": "刪除已驗證的域名",
             "This is a destructive action. Your GitHub Pages sites may lose their custom domains.": "這是一個破壞性的操作，您的 GitHub Pages 網站可能會失去自訂域名。",
-            "Your GitHub Pages sites may be unpublished from their custom domains if another organization claims ownership of this domain.": "如果其他組織聲稱擁有此域名的所有權，您的 GitHub Pages 網站可能會被從此自訂域名中取消發布。",
+            "Your GitHub Pages sites may be unpublished from their custom domains if another organization claims ownership of this domain.": "如果其他組織聲稱擁有此域名的所有權，您的 GitHub Pages 網站可能會被從此自訂域名中取消發佈。",
             "Please type": "請輸入",
             "to confirm.": "進行確認",
             "I understand, delete verified domain": "我明白了，依然刪除已驗證的域名",
@@ -4559,7 +4559,7 @@ I18N.zh["settings/apps"] = { // 設定 - 開發者設定/GitHub 應用
                     "Commit statuses": "提交狀態",
                         "Commit statuses.": "提交狀態。",
                     "Contents": "內容",
-                        "Repository contents, commits, branches, downloads, releases, and merges.": "倉庫內容、提交、分支、下載、發布和合併。",
+                        "Repository contents, commits, branches, downloads, releases, and merges.": "倉庫內容、提交、分支、下載、發佈和合併。",
                     // 自訂屬性
                         "View and set values for a repository's custom properties, when allowed by the property.": "在屬性允許的情況下，查看和設定倉庫自訂屬性的值。",
                     "Dependabot alerts": "Dependabot 警報",
@@ -4579,7 +4579,7 @@ I18N.zh["settings/apps"] = { // 設定 - 開發者設定/GitHub 應用
                     "Metadata": "元數據",
                         "Search repositories, list collaborators, and access repository metadata.": "搜索倉庫、列出協作者，訪問倉庫元數據。",
                     "Packages": "套裝軟體",
-                        "Packages published to the GitHub Package Platform.": "發布套裝軟體到 GitHub Package 平台。",
+                        "Packages published to the GitHub Package Platform.": "發佈套裝軟體到 GitHub Package 平台。",
                     "Pages": "GitHub Pages",
                         "Retrieve Pages statuses, configuration, and builds, as well as create new builds.": "檢索頁面狀態、配置和構建，以及創建新的構建。",
                     "Projects": "項目",
@@ -4689,7 +4689,7 @@ I18N.zh["settings/apps"] = { // 設定 - 開發者設定/GitHub 應用
                 "Meta": "元數據",
                     "When this App is deleted and the associated hook is removed.": "當該應用被刪除和相關的鉤子被刪除時。",
                 "Security advisory": "安全提示",
-                    "Security advisory published, updated, or withdrawn.": "安全提示的發布、更新或撤銷。",
+                    "Security advisory published, updated, or withdrawn.": "安全提示的發佈、更新或撤銷。",
                 "Branch protection configuration": "分支保護配置",
                     "All branch protections disabled or enabled for a repository.": "禁用或啟用倉庫的所有分支保護。",
                 "Branch protection rule": "分支保護規則",
@@ -4775,9 +4775,9 @@ I18N.zh["settings/apps"] = { // 設定 - 開發者設定/GitHub 應用
                 "Push": "推送",
                     "Git push to a repository.": "Git 推送到倉庫。",
                 "Registry package": "註冊套裝軟體",
-                    "Registry package published or updated in a repository.": "倉庫中註冊套裝軟體的發布或更新。",
+                    "Registry package published or updated in a repository.": "倉庫中註冊套裝軟體的發佈或更新。",
                 "Release": "發行版",
-                    "Release created, edited, published, unpublished, or deleted.": "發行版的創建、編輯、發布、取消發布或刪除。",
+                    "Release created, edited, published, unpublished, or deleted.": "發行版的創建、編輯、發佈、取消發佈或刪除。",
                 "Repository": "倉庫",
                     "Repository created, deleted, archived, unarchived, publicized, privatized, edited, renamed, or transferred.": "倉庫的創建、刪除、歸檔、取消歸檔、公開、私有化、編輯、重命名或轉讓。",
                 "Repository dispatch": "倉庫調度",
@@ -4809,7 +4809,7 @@ I18N.zh["settings/apps"] = { // 設定 - 開發者設定/GitHub 應用
                 "Org block": "組織黑名單", // 組織設定
                     "A user has been blocked or unblocked.": "用戶封鎖或解除封鎖。",
                 "Repository advisory": "倉庫公告",
-                    "Repository advisory published or reported.": "倉庫公告發布或報告。",
+                    "Repository advisory published or reported.": "倉庫公告發佈或報告。",
 
             "Where can this GitHub App be installed?": "這款 GitHub 應用可以安裝在哪裡？",
                 "Only on this account": "僅在當前帳戶",
@@ -5167,7 +5167,7 @@ I18N.zh["settings/tokens"] = { // 設定 - 開發者設定/個人訪問令牌
                     "Commit statuses": "提交狀態",
                         "Commit statuses.": "提交狀態。",
                     "Contents": "內容",
-                        "Repository contents, commits, branches, downloads, releases, and merges.": "倉庫內容、提交、分支、下載、發布和合併。",
+                        "Repository contents, commits, branches, downloads, releases, and merges.": "倉庫內容、提交、分支、下載、發佈和合併。",
                     // 自訂屬性
                         "View and set values for a repository's custom properties, when allowed by the property.": "在屬性允許的情況下，查看和設定倉庫自訂屬性的值。",
                     "Dependabot alerts": "Dependabot 警報",
@@ -5187,7 +5187,7 @@ I18N.zh["settings/tokens"] = { // 設定 - 開發者設定/個人訪問令牌
                     "Metadata": "元數據",
                         "Search repositories, list collaborators, and access repository metadata.": "搜索倉庫、列出協作者，訪問倉庫元數據。",
                     "Packages": "套裝軟體",
-                        "Packages published to the GitHub Package Platform.": "發布套裝軟體到 GitHub Package 平台。",
+                        "Packages published to the GitHub Package Platform.": "發佈套裝軟體到 GitHub Package 平台。",
                     "Pages": "GitHub Pages",
                         "Retrieve Pages statuses, configuration, and builds, as well as create new builds.": "檢索頁面狀態、配置和構建，以及創建新的構建。",
                     "Projects": "項目",
@@ -5430,7 +5430,7 @@ I18N.zh["repository-public"] = { // 倉庫 - 公共部分
             // 倉庫違反 DMCA
             "Repository unavailable due to DMCA takedown.": "由於 DMCA 刪除，倉庫不可用。",
             "This repository is currently disabled due to a DMCA takedown notice. We have disabled public access to the repository. The notice has been": "由於 DMCA 刪除通知，此倉庫當前已被禁用。我們已經禁止公眾訪問該倉庫。該通知已",
-            "publicly posted": "公開發布",
+            "publicly posted": "公開發佈",
             "If you are the repository owner, and you believe that your repository was disabled as a result of mistake or misidentification, you have the right to file a counter notice and have the repository reinstated. Our help articles provide more details on our": "如果您是倉庫所有者，並且您認為您的倉庫由於錯誤或誤認而被禁用，您有權提交反通知並恢復倉庫。我們的幫助文章提供了關於我們的更多詳細資訊",
             "DMCA takedown policy": "DMCA 刪除政策",
             "how to file a counter notice": "如何提交反通知",
@@ -5959,8 +5959,8 @@ I18N.zh["repository"] = { // 倉庫頁面 /<user-name>/<repo-name>/
                 "View on Marketplace": "去市場查看",
 
             // 未上架的 GitHub Action 項目
-                "You can publish this Action to the GitHub Marketplace": "您可以將此 Action 發布到 GitHub 市場",
-                "Draft a release": "起草發布",
+                "You can publish this Action to the GitHub Marketplace": "您可以將此 Action 發佈到 GitHub 市場",
+                "Draft a release": "起草發佈",
 
             // 訪問已刪除的分支
             "This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.": "這個提交不屬於本倉庫的任何分支，可能屬於倉庫以外的分支。",
@@ -6230,12 +6230,12 @@ I18N.zh["repository"] = { // 倉庫頁面 /<user-name>/<repo-name>/
                 "Your repository details have been saved.": "您的倉庫簡述已保存。",
 
             "Releases": "發行版",
-                "No releases published": "未發布任何版本",
+                "No releases published": "未發佈任何版本",
                 "Latest": "最新",
                 "Create a new release": "創建發行版",
             // "Packages": "套裝軟體",
-                "No packages published": "未發布套裝軟體",
-                "Publish your first package": "發布套裝軟體",
+                "No packages published": "未發佈套裝軟體",
+                "Publish your first package": "發佈套裝軟體",
             "Sponsor this project": "贊助本項目",
                 "Learn more about GitHub Sponsors": "了解更多關於 GitHub 贊助者的資訊",
             "Used by": "使用者",
@@ -6247,8 +6247,8 @@ I18N.zh["repository"] = { // 倉庫頁面 /<user-name>/<repo-name>/
 
             // "branch": "分支",
             // "branches": "分支",
-            // "release": "次發布",
-            // "releases": "次發布",
+            // "release": "次發佈",
+            // "releases": "次發佈",
             // "contributor": "個貢獻者",
             // "contributors": "個貢獻者",
 
@@ -8187,8 +8187,8 @@ I18N.zh["repository/blob"] = { // 倉庫 - 瀏覽代碼
                         "No matches found": "未找到匹配項",
 
             // Action的 action.yml 文件
-                "You can publish this Action to the GitHub Marketplace": "您可以將此 Action 發布到 GitHub 市場",
-                "Draft a release": "起草發布",
+                "You can publish this Action to the GitHub Marketplace": "您可以將此 Action 發佈到 GitHub 市場",
+                "Draft a release": "起草發佈",
             // 工作流程文件 /blob/<brach>/.github/workflows/xxxx.yml
                 "View Runs": "查看運行情況",
             // 添加文件按鈕, 文件夾模式下
@@ -8497,7 +8497,7 @@ I18N.zh["repository/discussions"] = { // 討論頁面
                 "Question / Answer": "問 / 答",
                     "Enable your community to ask questions, suggest answers, and vote on the best suggested answer.": "使您的社區能夠提出問題、建議答案並投票選出最佳建議答案。",
                 "Announcement": "公告",
-                    "Share updates and news with your community. Only maintainers and admins can post new discussions in these categories, but anyone can comment and reply.": "與您的社區分享更新和新聞。只有維護者和管理員可以在這些類別中發布新討論，但任何人都可以發表評論和回復。",
+                    "Share updates and news with your community. Only maintainers and admins can post new discussions in these categories, but anyone can comment and reply.": "與您的社區分享更新和新聞。只有維護者和管理員可以在這些類別中發佈新討論，但任何人都可以發表評論和回復。",
                 "Poll": "投票",
                     "Gauge interest, vote, and interact with other community members using polls.": "調查興趣，投票，並使用投票與其他社區成員互動。",
                     "Cannot be changed to polls. Please create a new category for polls.": "不能更改為投票。請為投票創建一個新類別。",
@@ -8572,7 +8572,7 @@ I18N.zh["repository/discussions"] = { // 討論頁面
             "Support": "支持",
             "GitHub Community Guidelines": "GitHub 社區準則",
 
-            "Ask a question, start a conversation, or make an announcement": "提出問題、開始對話或發布公告",
+            "Ask a question, start a conversation, or make an announcement": "提出問題、開始對話或發佈公告",
 
         // 新建討論頁面 /<user-name>/<repo-name>/discussions/new?category=general
             "If this doesn’t look right you can": "如果這個看起來不對，您可以",
@@ -8581,7 +8581,7 @@ I18N.zh["repository/discussions"] = { // 討論頁面
             "Discussion title": "討論標題",
 
         // 新建討論頁面 /<user-name>/<repo-name>/discussions/new?category=announcements&welcome_text=true
-            "Since you're new here, we're helping you to get started by generating your first post to the community. Don't worry, you can edit this discussion after you post!": "由於您是新來的，我們正在幫助您開始向社區發布您的第一個帖子。不用擔心，您可以在發布後編輯此討論！",
+            "Since you're new here, we're helping you to get started by generating your first post to the community. Don't worry, you can edit this discussion after you post!": "由於您是新來的，我們正在幫助您開始向社區發佈您的第一個帖子。不用擔心，您可以在發佈後編輯此討論！",
 
         // 某個討論頁面 /<user-name>/<repo-name>/discussions/<id>
             // [/Congratulations, you've created the first discussion in ([^ ]+)!/, "恭喜您，您已經在 $1 中創建了第一個討論!"],
@@ -8769,7 +8769,7 @@ I18N.zh["repository/discussions"] = { // 討論頁面
                 "Refresh": "刷新",
 
         // /<user-name>/community/discussions
-            // [/This is a ✨special✨ repository containing the organization level discussions for ([^ ]+). Everything posted here will also be visible at the organization level./, "這是一個 ✨ 特別的 ✨ 倉庫，包含 $1 的組織層面的討論。這裡發布的所有內容在組織層面上也是可見的。"],
+            // [/This is a ✨special✨ repository containing the organization level discussions for ([^ ]+). Everything posted here will also be visible at the organization level./, "這是一個 ✨ 特別的 ✨ 倉庫，包含 $1 的組織層面的討論。這裡發佈的所有內容在組織層面上也是可見的。"],
             "View organization discussions": "查看組織討論",
     },
     "regexp": [ // 正則翻譯
@@ -8790,7 +8790,7 @@ I18N.zh["repository/discussions"] = { // 討論頁面
         [/Open issues with label \'([^ ]+)\' are being converted to discussions./, "帶有 “$1” 標籤的打開議題正在被轉換為討論。"], // 標籤頁面
         [/Edited (\d+) times?/,"編輯 $1 次"], //評論框編輯次數
         [/edited by ([^ ]+)/,"被 $1 編輯"], //評論框 被他人編輯
-        [/This is a ✨special✨ repository containing the organization level discussions for ([^ ]+). Everything posted here will also be visible at the organization level./, "這是一個 ✨ 特別的 ✨ 倉庫，包含 $1 的組織層面的討論。這裡發布的所有內容在組織層面上也是可見的。"],
+        [/This is a ✨special✨ repository containing the organization level discussions for ([^ ]+). Everything posted here will also be visible at the organization level./, "這是一個 ✨ 特別的 ✨ 倉庫，包含 $1 的組織層面的討論。這裡發佈的所有內容在組織層面上也是可見的。"],
         [/Category \"(.*)\" has been created./, "分類 “$1” 已創建。"],
         [/Category \"(.*)\" has been updated./, "分類 “$1” 已更新。"],
         [/Category \"(.*)\" has been deleted./, "分類 “$1” 已刪除。"],
@@ -9604,8 +9604,8 @@ I18N.zh["repository/branches"] = { // 倉庫 - 分支頁面
                         "for this branch.": "針對該分支。",
 
                     // 重命名 GitHub Pages 所在分支
-                        "Will unpublish current GitHub Pages site.": "將取消當前發布的 GitHub Pages 站點。",
-                            "Your current GitHub Pages site will become unpublished. A new commit on the renamed branch will publish the GitHub Pages site again.": "您當前的 GitHub Pages 站點將被取消發布。重命名分支上的新提交將再次發布 GitHub Pages 站點。",
+                        "Will unpublish current GitHub Pages site.": "將取消當前發佈的 GitHub Pages 站點。",
+                            "Your current GitHub Pages site will become unpublished. A new commit on the renamed branch will publish the GitHub Pages site again.": "您當前的 GitHub Pages 站點將被取消發佈。重命名分支上的新提交將再次發佈 GitHub Pages 站點。",
 
                     "Will not update your members' local environments.": "不會更新您成員的本地環境。",
                 "Renaming this branch will not update your members' local environments.": "重命名此分支不會更新您成員的本地環境。",
@@ -9765,11 +9765,11 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
             "Releases": "發行版",
             // 無發行版時
             "There aren’t any releases here": "沒有任何發行版",
-            "You can create a release to package software, along with release notes and links to binary files, for other people to use. Learn more about releases in": "您可以創建一個發行版來打包軟體，以及發行說明和二進位制文件連結，供其他人使用。了解更多關於發布的資訊查看",
+            "You can create a release to package software, along with release notes and links to binary files, for other people to use. Learn more about releases in": "您可以創建一個發行版來打包軟體，以及發行說明和二進位制文件連結，供其他人使用。了解更多關於發佈的資訊查看",
             "our docs": "文件",
             "Releases are powered by": "發行版是指通過對倉庫中",
             "tagging specific points of history": "特定歷史點",
-            "in a repository. They’re great for marking release points like": "進行標記來發布。用於發布的版本號類似",
+            "in a repository. They’re great for marking release points like": "進行標記來發佈。用於發佈的版本號類似",
             "Create a new release": "創建發行版",
 
             // 有發行版時
@@ -9818,9 +9818,9 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
             // "Edit": "編輯",
             "release": "發行版",
 
-            // "Read release notes": "閱讀發布說明",
+            // "Read release notes": "閱讀發佈說明",
             // 狀態詞
-            "released this": "發布於",
+            "released this": "發佈於",
             "tagged this": "標記了",
             "drafted this": "起草了",
 
@@ -9845,7 +9845,7 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
 
         // 創建發行版 /releases/new 和 編輯發行版 /releases/edit/<tag>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
             // 提醒條
-            "This is a draft and won’t be seen by the public unless it’s published.": "這是一個草案，除非發布，否則不會被公眾看到。",
+            "This is a draft and won’t be seen by the public unless it’s published.": "這是一個草案，除非發佈，否則不會被公眾看到。",
             "Discard draft": "丟棄草案",
 
             "Choose a tag": "選擇標籤",
@@ -9855,13 +9855,13 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
                 "Filter branches…": "篩選分支…",
                 "Filter recent commits…": "篩選最近提交…",
                 "Recent Commits": "最近提交…",
-            "Choose an existing tag, or create a new tag on publish": "選擇現有的標籤，或在發布時創建新標籤",
-            "Choose an existing tag, or create a new tag when you publish this release.": "選擇現有的標籤，或在您發布這個版本時，創建新標籤。",
+            "Choose an existing tag, or create a new tag on publish": "選擇現有的標籤，或在發佈時創建新標籤",
+            "Choose an existing tag, or create a new tag when you publish this release.": "選擇現有的標籤，或在您發佈這個版本時，創建新標籤。",
 
             "Loading tag information…": "載入標籤資訊…",
             // 在篩選標籤框輸入 標籤時
             "Create new tag:": "創建新標籤：",
-            "on publish": "發布時",
+            "on publish": "發佈時",
             // 輸入結果
             "Duplicate tag name": "重複的標籤名",
                 "This tag already has release notes. Would you like to": "這個標籤已經有發行說明。您是否願意",
@@ -9869,9 +9869,9 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
                 "Existing tag": "已存在的標籤",
             "Invalid tag name": "無效的標籤名",
                 "We weren’t able to create the release for you. Make sure you have a valid tag.": "我們無法為您創建發行版。請確保您有一個有效的標籤。",
-                "There was an error creating your Release: tag name can't be blank, tag name is not well-formed, published releases must have a valid tag.": "創建發行版時出錯：標籤名稱不能為空，標籤名稱格式不正確，已發布的發行版必須有一個有效的標籤。",
+                "There was an error creating your Release: tag name can't be blank, tag name is not well-formed, published releases must have a valid tag.": "創建發行版時出錯：標籤名稱不能為空，標籤名稱格式不正確，已發佈的發行版必須有一個有效的標籤。",
                 "We can’t create a tag with this name. Take a look at the suggestions in the sidebar for example tag names.": "我們不能用這個名字創建標籤。看看側邊欄的建議，看看標籤名稱的例子。",
-            "Excellent! This tag will be created from the target when you publish this release.": "優秀! 當您發布這個版本時，這個標籤將從目標創建。",
+            "Excellent! This tag will be created from the target when you publish this release.": "優秀! 當您發佈這個版本時，這個標籤將從目標創建。",
 
             "Release title": "發行版標題",
 
@@ -9925,7 +9925,7 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
             "Remove": "刪除",
             "Undo": "撤銷",
 
-            "Set as a pre-release": "設定為預發布版本",
+            "Set as a pre-release": "設定為預發佈版本",
                 "This release will be labeled as non-production ready": "此版本將被標記為非正式版本。",
             "Create a discussion for this release": "為此版本創建討論",
                 "People will be able to leave comments and reactions on this release using Discussions.": "人們將能夠使用“討論”對此版本發表評論和反應。",
@@ -9939,8 +9939,8 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
             "Set as the latest release": "設定為最新版本", //edit
                 "This release is labeled as the latest for this repository.": "此版本將被標記為此倉庫的最新版本。",
 
-            "Publish release": "發布發行版",
-                "Publishing…": "發布中…",
+            "Publish release": "發佈發行版",
+                "Publishing…": "發佈中…",
             "Update release": "更新發行版",
                 "Updating…": "更新中…",
                 "Saving release…": "保存中…",
@@ -9957,27 +9957,27 @@ I18N.zh["repository/releases"] = { // 倉庫 - 發行版頁面
             "Tagging suggestions": "標籤建議",
             "It’s common practice to prefix your version names with the letter": "通常的做法是在版本名稱前加上字母",
             ". Some good tag names might be": "。一些好的標籤名稱可能是",
-            "If the tag isn’t meant for production use, add a pre-release version after the version name. Some good pre-release versions might be": "如果標籤不是用於生產的，就在版本名後面加上預發布版本。一些好的預發布版本可能是",
+            "If the tag isn’t meant for production use, add a pre-release version after the version name. Some good pre-release versions might be": "如果標籤不是用於生產的，就在版本名後面加上預發佈版本。一些好的預發佈版本可能是",
 
             "Semantic versioning": "語義版本管理",
-            "If you’re new to releasing software, we highly recommend to": "如果您是發布新手，我們強烈您",
+            "If you’re new to releasing software, we highly recommend to": "如果您是發佈新手，我們強烈您",
             "learn more about semantic versioning.": "了解更多關於語義版本管理的資訊。",
 
-            "A newly published release will automatically be labeled as the latest release for this repository.": "新發布的版本將自動標記為該倉庫的最新版本。",
+            "A newly published release will automatically be labeled as the latest release for this repository.": "新發佈的版本將自動標記為該倉庫的最新版本。",
             "If \'Set as the latest release\' is unchecked, the latest release will be determined by higher semantic version and creation date.": "如果未選中 “設定為最新版本”，則最新版本將由更高語義版本和創建日期確定。",
             "Learn more about release settings.": "了解更多關於發行版設定的資訊。",
 
        // 創建 Action 發行版到市場 /releases/new?marketplace 和 編輯 /releases/edit/... >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-            "Release Action": "發布 Action",
-                "Publish this release to the GitHub Marketplace": "將此版本發布到 GitHub 市場",
+            "Release Action": "發佈 Action",
+                "Publish this release to the GitHub Marketplace": "將此版本發佈到 GitHub 市場",
                 "You must": "您必須",
                 "accept the GitHub Marketplace Developer Agreement": "接受 GitHub 市場開發者協議",
-                "before publishing an Action.": "在發布之前。",
+                "before publishing an Action.": "在發佈之前。",
 
-                "Publish this Action to the GitHub Marketplace": "將此 Action 發布到 GitHub  市場",
+                "Publish this Action to the GitHub Marketplace": "將此 Action 發佈到 GitHub  市場",
                 "Your Action will be discoverable in the Marketplace and available in GitHub search.": "您的 Action 將在市場中被發現，並可在 GitHub 搜索中找到。",
 
-                "Your action.yml needs changes before it can be published.": "您的 action.yml 需要更改才能發布。",
+                "Your action.yml needs changes before it can be published.": "您的 action.yml 需要更改才能發佈。",
                 "Everything looks good! You have all the required information.": "一切看起來都不錯！您擁有所有必需的資訊。",
 
                 "Name": "名稱",
@@ -10013,7 +10013,7 @@ I18N.zh["repository/packages"] = { // 倉庫 - 套裝軟體頁面
 
         // /<user-name>/<repo-name>/packages
             "Get started with GitHub Packages": "開始使用 GitHub 套裝軟體",
-            "Safely publish packages, store your packages alongside your code, and share your packages privately with your team.": "安全地發布包，將您的包與您的代碼一起儲存，並與您的團隊私下共享您的包。",
+            "Safely publish packages, store your packages alongside your code, and share your packages privately with your team.": "安全地發佈包，將您的包與您的代碼一起儲存，並與您的團隊私下共享您的包。",
              "Choose a registry": "選擇註冊表",
 
             "A software platform used for building applications based on containers — small and lightweight execution environments.": "用於構建基於容器的應用的軟體平台——小型輕量級執行環境。",
@@ -10148,12 +10148,12 @@ I18N.zh["repository/pkgs"] = { // 倉庫 - 套裝軟體
             "Recent tagged image versions": "最近被標記的映像版本",
             "latest": "最新",
             "Latest": "最新",
-            // [/Published (.*) · Digest/, "發布於 $1 · 摘要"],
+            // [/Published (.*) · Digest/, "發佈於 $1 · 摘要"],
             "View all tagged versions": "查看所有被標記的版本",
 
             "Details": "詳細資訊",
             "Readme": "自述文件",
-            "Last published": "最新發布",
+            "Last published": "最新發佈",
             "Total downloads": "總下載量",
             "Start a discussion": "開始討論",
             "Contributors": "貢獻者",
@@ -10168,7 +10168,7 @@ I18N.zh["repository/pkgs"] = { // 倉庫 - 套裝軟體
 
         // 全部版本 /<user-name>/<repo-name>/pkgs/container/<pag name>/versions
             "All versions": "所有版本",
-            // [/Published (*)/, "發布於 $1"],
+            // [/Published (*)/, "發佈於 $1"],
             // [/(\d+) tagged/, "$1 個標記"],
             // [/(\d+) untagged/, "$1 個未標記"],
 
@@ -10176,7 +10176,7 @@ I18N.zh["repository/pkgs"] = { // 倉庫 - 套裝軟體
             "About this version": "關於這個版本",
             "Manifest": "清單",
             "No description provided": "未提供說明",
-            "This package version was published": "此版本套裝軟體發布於",
+            "This package version was published": "此版本套裝軟體發佈於",
 
             "To provide a description, add the following line to your Dockerfile:": "要提供描述，請將以下行添加到您的 Dockerfile 中：",
             "For multi-arch images, set a value for the": "對於多架構鏡像，請設定",
@@ -10204,8 +10204,8 @@ I18N.zh["repository/pkgs"] = { // 倉庫 - 套裝軟體
     "regexp": [ // 正則翻譯
         ...I18N.zh["repository/packages"]["regexp"],
 
-        [/Published (.*) · Digest/, "發布於 $1 · 摘要"],
-        [/Published (.*)/, "發布於 $1"],
+        [/Published (.*) · Digest/, "發佈於 $1 · 摘要"],
+        [/Published (.*)/, "發佈於 $1"],
         [/(\d+) tagged/, "$1 個標記"],
         [/(\d+) untagged/, "$1 個未標記"],
         [/(\d+) dependencies/, "$1 個依賴包"],
@@ -10306,15 +10306,15 @@ I18N.zh["repository/security"] = { // 倉庫 - 安全頁面
 
         // 安全公告 /<user-name>/<repo-name>/security/advisories
             "Security Advisories": "安全公告",
-            "Privately discuss, fix, and publish information about security vulnerabilities in your repository's code.": "私人討論，修復和發布倉庫代碼中的安全漏洞的資訊。",
+            "Privately discuss, fix, and publish information about security vulnerabilities in your repository's code.": "私人討論，修復和發佈倉庫代碼中的安全漏洞的資訊。",
             "New draft security advisory": "新的安全建議草案",
 
             // [/(\d+) Draft/, "$1 項草案"],
-            // [/(\d+) Published/, "$1 項已發布"],
+            // [/(\d+) Published/, "$1 項已發佈"],
             // [/(\d+) Closed/, "$1 項已關閉"],
 
             "There aren’t any draft security advisories": "沒有任何安全建議草案",
-            "There aren’t any published security advisories": "沒有任何已發布的安全公告",
+            "There aren’t any published security advisories": "沒有任何已發佈的安全公告",
             "There aren’t any closed security advisories": "沒有任何已關閉的安全公告",
 
             // 他人庫
@@ -10509,7 +10509,7 @@ I18N.zh["repository/security"] = { // 倉庫 - 安全頁面
 
         // 新建安全公告草案 /<user-name>/<repo-name>/security/advisories/new
             "Open a draft security advisory": "打開一個安全公告草案",
-            "After the draft security advisory is open, you can privately discuss it with collaborators and create a temporary private fork where you can collaborate on a fix. If you've already fixed the vulnerability, just fill out the draft security advisory and then publish it.": "在安全公告草案打開後，您可以與協作者私下討論，並創建一個臨時的私有復刻，在那裡您們可以協作進行修復。如果您已經修復了該漏洞，只需填寫安全公告草案，然後發布即可。",
+            "After the draft security advisory is open, you can privately discuss it with collaborators and create a temporary private fork where you can collaborate on a fix. If you've already fixed the vulnerability, just fill out the draft security advisory and then publish it.": "在安全公告草案打開後，您可以與協作者私下討論，並創建一個臨時的私有復刻，在那裡您們可以協作進行修復。如果您已經修復了該漏洞，只需填寫安全公告草案，然後發佈即可。",
 
             "Advisory Details": "公告詳情",
             "Title *": "標題 *",
@@ -10542,9 +10542,9 @@ I18N.zh["repository/security"] = { // 倉庫 - 安全頁面
 
             // 右側欄
             "Access and visibility": "訪問和可見性",
-                "Until it is published, this draft security advisory will only be visible to the owner of": "在發布之前，此安全公告草案僅對以下的所有者可見",
+                "Until it is published, this draft security advisory will only be visible to the owner of": "在發佈之前，此安全公告草案僅對以下的所有者可見",
                 ". Other users and teams may be added once the advisory is created.": "。 其他用戶和團隊可以在諮詢創建後加入。",
-            "Once published, security advisories on public repositories are visible to everyone.": "一旦發布，公共倉庫上的安全公告對所有人都是可見的。",
+            "Once published, security advisories on public repositories are visible to everyone.": "一旦發佈，公共倉庫上的安全公告對所有人都是可見的。",
             "Once reviewed by GitHub, security advisories may be broadcast on the": "一旦通過 GitHub 的審查，安全公告就可以出現在",
             "GitHub Advisory Database": "GitHub 諮詢資料庫",
             ". They may also trigger Dependabot alerts to users that depend on this repository.": "。它們還可能向依賴此倉庫的用戶觸發 Dependabot 警報。",
@@ -10556,7 +10556,7 @@ I18N.zh["repository/security"] = { // 倉庫 - 安全頁面
     "regexp": [ // 正則翻譯
         ...I18N.zh["repository-public"]["regexp"],
         [/([\d,]+) Draft/, "$1 草案"],
-        [/([\d,]+) Published/, "$1 發布"],
+        [/([\d,]+) Published/, "$1 發佈"],
         [/([\d,]+) Open/, "$1 打開"],
         [/([\d,]+) Closed/, "$1 關閉"],
         [/(\d+) selected/, "$1 條被選中"],
@@ -10716,9 +10716,9 @@ I18N.zh["repository/pulse"] = { // 倉庫 -> 洞察 - 統計
 
             "Want to help out?": "想幫忙嗎？",
             "Fork this repository": "復刻倉庫",
-            "Release published by": "個發行版已發布由",
-            "Releases published by": "個發行版已發布由",
-            "published": "發布",
+            "Release published by": "個發行版已發佈由",
+            "Releases published by": "個發行版已發佈由",
+            "published": "發佈",
             "Pull request merged by": "個拉取請求已合併由",
             "Pull requests merged by": "個拉取請求已合併由",
             "Pull request opened by": "個拉取請求打開由",
@@ -11333,8 +11333,8 @@ I18N.zh["repository/settings"] = { // 倉庫設定 - 通常 /<user-name>/<repo-n
                         "open pull request for this branch.": "個該分支的拉取請求。",
 
                     // 重命名 GitHub Pages 所在分支
-                        "Will unpublish current GitHub Pages site.": "將取消當前發布的 GitHub Pages 站點。",
-                            "Your current GitHub Pages site will become unpublished. A new commit on the renamed branch will publish the GitHub Pages site again.": "您當前的 GitHub Pages 站點將被取消發布。重命名分支上的新提交將再次發布 GitHub Pages 站點。",
+                        "Will unpublish current GitHub Pages site.": "將取消當前發佈的 GitHub Pages 站點。",
+                            "Your current GitHub Pages site will become unpublished. A new commit on the renamed branch will publish the GitHub Pages site again.": "您當前的 GitHub Pages 站點將被取消發佈。重命名分支上的新提交將再次發佈 GitHub Pages 站點。",
 
                     "Will not update your members' local environments.": "不會更新您成員的本地環境。",
                 "Renaming this branch will not update your members' local environments.": "重命名此分支不會更新您成員的本地環境。",
@@ -11398,7 +11398,7 @@ I18N.zh["repository/settings"] = { // 倉庫設定 - 通常 /<user-name>/<repo-n
             "Set up sponsor button": "設定贊助按鈕",
 
             // 項目
-            "Projects on GitHub help you organize and prioritize your work. You can create projects for specific feature work, comprehensive roadmaps, or even release checklists.": "GitHub 上的項目可以幫助您組織工作並確定其優先次序。您可以為特定的功能工作、全面的路線圖、甚至是發布清單創建項目",
+            "Projects on GitHub help you organize and prioritize your work. You can create projects for specific feature work, comprehensive roadmaps, or even release checklists.": "GitHub 上的項目可以幫助您組織工作並確定其優先次序。您可以為特定的功能工作、全面的路線圖、甚至是發佈清單創建項目",
 
             "Preserve this repository": "保留這個倉庫",
             "Include this code in the": "將此代碼包含在",
@@ -11408,7 +11408,7 @@ I18N.zh["repository/settings"] = { // 倉庫設定 - 通常 /<user-name>/<repo-n
             "Autogenerate table of contents for markdown files in this repository. the table of contents will be displayed near the top of the file.": "自動生成此倉庫中 Markdown 文件的目錄。目錄將顯示在文件頂部附近。",
 
             // "Discussions": "討論",
-            "Discussions is the space for your community to have conversations, ask questions and post answers without opening issues.": "討論是您的社區進行對話、提問和發布答案的地方，而無需打開議題。",
+            "Discussions is the space for your community to have conversations, ask questions and post answers without opening issues.": "討論是您的社區進行對話、提問和發佈答案的地方，而無需打開議題。",
             "Get started with Discussions": "開始討論",
             "Engage your community by having discussions right in your repository, where your community already lives": "透過在您的社區已經存在的倉庫中進行討論來吸引您的社區",
             "Set up discussions": "建立討論",
@@ -11492,7 +11492,7 @@ I18N.zh["repository/settings"] = { // 倉庫設定 - 通常 /<user-name>/<repo-n
                 "Attachments uploaded to this repository's issues and pull requests will not be accessible unless it is made private again.": "上傳到此倉庫的議題和拉取請求的附件將無法訪問，除非再次設為私有。",
                 "Anyone can fork your repository.": "任何人都可以復刻您的倉庫。",
                 "All push rulesets will be disabled.": "所有推送規則集都將被禁用。",
-                "Your changes will be published as activity.": "您的更改將作為活動發布。",
+                "Your changes will be published as activity.": "您的更改將作為活動發佈。",
                 "Make this repository public": "我想將此倉庫設為公開",
             "I want to make this repository private": "我想將此倉庫設為私有",
                 "Making this repository private could permanently erase these counts by removing stars and watchers associated to users that will no longer have access to this repository:": "該倉庫私有化，將會通過解除星標者和關注者，刪除這些計數。他們將無法訪問該倉庫：",
@@ -12656,7 +12656,7 @@ I18N.zh["repository/settings/hooks"] = { // 倉庫設定 - Web 鉤子 /<user-nam
                     "Organizations": "組織", // 組織設定
                         "Organization deleted, renamed, member invited, member added, or member removed.": "組織的刪除、重命名以及成員的邀請、添加或刪除。",
                     // "Packages": "套裝軟體",
-                        "GitHub Packages published or updated in a repository.": "倉庫中 GitHub 套裝軟體的發布或更新 。",
+                        "GitHub Packages published or updated in a repository.": "倉庫中 GitHub 套裝軟體的發佈或更新 。",
                     "Page builds": "構建 GitHub Pages",
                         "Pages site built.": "GitHub Pages 站點的建立。",
                     "Project cards": "項目面板卡",
@@ -12681,13 +12681,13 @@ I18N.zh["repository/settings/hooks"] = { // 倉庫設定 - Web 鉤子 /<user-nam
                     "Pushes": "推送",
                         "Git push to a repository.": "Git 推送到倉庫。",
                     "Registry packages": "註冊套裝軟體",
-                        "Registry package published or updated in a repository.": "倉庫中註冊套裝軟體的發布或更新。",
+                        "Registry package published or updated in a repository.": "倉庫中註冊套裝軟體的發佈或更新。",
                     "Releases": "發行版",
-                        "Release created, edited, published, unpublished, or deleted.": "發行版的創建、編輯、發布、取消發布或刪除。",
+                        "Release created, edited, published, unpublished, or deleted.": "發行版的創建、編輯、發佈、取消發佈或刪除。",
                     // "": "倉庫",
                         "Repository created, deleted, archived, unarchived, publicized, privatized, edited, renamed, or transferred.": "倉庫的創建、刪除、歸檔、取消歸檔、公開、私有化、編輯、重命名或轉讓。",
                     "Repository advisories": "倉庫公告",
-                        "Repository advisory published or reported.": "倉庫公告發布或報告。",
+                        "Repository advisory published or reported.": "倉庫公告發佈或報告。",
                     "Repository imports": "倉庫導入",
                         "Repository import succeeded, failed, or cancelled.": "倉庫導入的成功、失敗或取消。",
                     "Repository rulesets": "倉庫規則集",
@@ -12999,17 +12999,17 @@ I18N.zh["repository/settings/pages"] = { // 倉庫設定頁面(含組織倉庫) 
             "Upgrade or make this repository public to enable Pages": "升級或公開該倉庫，以啟用 GitHub Pages",
             "GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.": "GitHub Pages 旨在從 GitHub 倉庫中託管您的個人、組織或項目頁面。",
             // 存檔時 提醒
-            "This repository has been archived. The associated GitHub Pages site remains published but settings are read-only.": "該倉庫已存檔。相關的 GitHub Pages 網站仍然發布，但設定是只讀的。",
+            "This repository has been archived. The associated GitHub Pages site remains published but settings are read-only.": "該倉庫已存檔。相關的 GitHub Pages 網站仍然發佈，但設定是只讀的。",
 
-            // 已發布時
+            // 已發佈時
             "Your site is live at": "您的站點在",
                 "Last": "最近",
                 "deployed": "部署",
             "Visit site": "訪問網站",
             "Addtional site options": "站點附加選項",
-            "Unpublish site": "取消站點發布",
+            "Unpublish site": "取消站點發佈",
                 // 頂部提醒
-                    "GitHub Pages unpublished.": "GitHub  Pages 未發布。",
+                    "GitHub Pages unpublished.": "GitHub  Pages 未發佈。",
 
             "Build and deployment": "構建和部署",
                 // 頂部提醒
@@ -13042,12 +13042,12 @@ I18N.zh["repository/settings/pages"] = { // 倉庫設定頁面(含組織倉庫) 
             "Branch": "分支",
                 // 禁用時
                 "GitHub Pages is currently disabled. Select a source below to enable GitHub Pages for this repository.": "GitHub Pages 目前已被禁用。在下面選擇一個源，為該倉庫啟用 GitHub Pages。",
-                "GitHub Pages is currently disabled. You must first add content to your repository before you can publish a GitHub Pages site.": "GitHub Pages 目前已被禁用。您必須先將內容添加到您的倉庫，然後才能發布 GitHub Pages 站點。",
+                "GitHub Pages is currently disabled. You must first add content to your repository before you can publish a GitHub Pages site.": "GitHub Pages 目前已被禁用。您必須先將內容添加到您的倉庫，然後才能發佈 GitHub Pages 站點。",
                 // 啟用時
                 "Your GitHub Pages site is currently being built from the": "您的 GitHub Pages 站點，目前正建立於",
                 "folder in the": "目錄在",
                 "branch.": "分支。",
-                "Learn more about configuring the publishing source for your site": "了解更多關於配置網站發布源的資訊",
+                "Learn more about configuring the publishing source for your site": "了解更多關於配置網站發佈源的資訊",
 
                 "Select branch": "選擇分支",
                     "None": "無",
@@ -13084,7 +13084,7 @@ I18N.zh["repository/settings/pages"] = { // 倉庫設定頁面(含組織倉庫) 
 
             "Visibility": "可見性",
                 "GitHub Enterprise": "GitHub 企業版",
-                "With a GitHub Enterprise account, you can restrict access to your GitHub Pages site by publishing it privately. A privately published site can only be accessed by people with read access to the repository the site is published from. You can use privately published sites to share your internal documentation or knowledge base with members of your enterprise.": "使用 GitHub 企業版帳戶，您可以透過私下發布來限制對 GitHub Pages 站點的訪問。私下發布的站點只能由對發布該站點的倉庫具有讀取權限的人訪問。您可以使用私下發布的站點與企業成員共享您的內部文件或知識庫。",
+                "With a GitHub Enterprise account, you can restrict access to your GitHub Pages site by publishing it privately. A privately published site can only be accessed by people with read access to the repository the site is published from. You can use privately published sites to share your internal documentation or knowledge base with members of your enterprise.": "使用 GitHub 企業版帳戶，您可以透過私下發佈來限制對 GitHub Pages 站點的訪問。私下發佈的站點只能由對發佈該站點的倉庫具有讀取權限的人訪問。您可以使用私下發佈的站點與企業成員共享您的內部文件或知識庫。",
                 "Try GitHub Enterprise risk-free for 30 days": "免費無風險試用 GitHub 企業版 30 天",
                 "Learn more about the visibility of your GitHub Pages site": "了解更多關於GitHub Pages 站點可見性的資訊",
 
@@ -13645,7 +13645,7 @@ I18N.zh["homepage"] = { // 未登入的首頁
         "With GitHub, you can secure code in minutes.": "通過 GitHub，您可以在幾分鐘內保護代碼安全",
 
         "GitHub Advanced Security": "GitHub 高級安全功能",
-        "enables you to find and fix vulnerabilities with ease and ship secure code quickly.": "可幫助您輕鬆發現和修復漏洞，並快速發布安全代碼。",
+        "enables you to find and fix vulnerabilities with ease and ship secure code quickly.": "可幫助您輕鬆發現和修復漏洞，並快速發佈安全代碼。",
         "Dive into GitHub Advanced Security": "深入了解 GitHub 高級安全功能",
 
         "7x faster": "快 7 倍",
@@ -14733,7 +14733,7 @@ I18N.zh["search"] = { // 搜索頁面
             "committed": "提交於", // &type=commits
             "Opened": "打開於", // &type=issues
             "Last updated": "最近更新於", // &type=wikis
-            "posted": "發布於", // &type=discussions
+            "posted": "發佈於", // &type=discussions
 
             // 保存對話框
             "Create saved search": "創建保存的搜索",
@@ -14775,12 +14775,12 @@ I18N.zh["search"] = { // 搜索頁面
 
             // &type=issues
                 "Learn how you can use GitHub Issues to plan and track your work.": "了解如何使用 GitHub 議題計劃和跟蹤工作。",
-                "Save views for sprints, backlogs, teams, or releases. Rank, sort, and filter issues to suit the occasion. The possibilities are endless.": "保存衝刺、待辦事項、團隊或發布的視圖。根據場合對議題進行排名、排序和篩選。可能性是無止境。",
+                "Save views for sprints, backlogs, teams, or releases. Rank, sort, and filter issues to suit the occasion. The possibilities are endless.": "保存衝刺、待辦事項、團隊或發佈的視圖。根據場合對議題進行排名、排序和篩選。可能性是無止境。",
                 "Learn more about GitHub Issues": "了解更多關於 GitHub 議題的資訊",
 
             // &type=registrypackages
                 "Learn GitHub Packages": "了解 GitHub 套裝軟體",
-                "GitHub Packages is a platform for hosting and managing packages, including containers and other dependencies. Get started with publishing or installing packages yourself.": "GitHub 套裝軟體是一個託管和管理包（包括容器和其他依賴項）的平台。開始自行發布或安裝套裝軟體吧",
+                "GitHub Packages is a platform for hosting and managing packages, including containers and other dependencies. Get started with publishing or installing packages yourself.": "GitHub 套裝軟體是一個託管和管理包（包括容器和其他依賴項）的平台。開始自行發佈或安裝套裝軟體吧",
                 "Learn more about GitHub Packages": "了解更多關於 GitHub 套裝軟體的資訊",
 
             // &type=topics
@@ -15343,7 +15343,7 @@ I18N.zh["topics"] = { // 探索-->主題頁面
 
         // github.com/topics/<某主題>
             "Created by": "創建者",
-            "Released": "發布於",
+            "Released": "發佈於",
 
             "Related Topics": "相關主題",
             "Updated": "更新於",
@@ -15739,7 +15739,7 @@ I18N.zh["marketplace"] = { // GitHub 市場
                     "Monitor the impact of your code changes. Measure performance, track errors, and analyze your application.": "監控代碼更改的影響。衡量性能、跟蹤錯誤並分析您的應用。",
                 "Project management": "項目管理",
                     "Organize, manage, and track your project with tools that build on top of issues and pull requests.": "使用基於置頂議題和拉取請求的工具來組織、管理和跟蹤您的項目。",
-                "Publishing": "發布",
+                "Publishing": "發佈",
                     "Get your site ready for production so you can get the word out.": "讓您的網站做好生產準備，以便您可以宣傳。",
                 "Recently added": "最新添加",
                     "The latest tools that help you and your team build software better, together.": "最新的工具可幫助您和您的團隊更好地共同構建軟體。",
@@ -15787,7 +15787,7 @@ I18N.zh["marketplace"] = { // GitHub 市場
         // https://github.com/marketplace?type=
             "Search results": "搜索結果",
             "filtered by": "已篩選",
-            "Publisher domain and email verified": "已驗證發布者域名和電子郵件",
+            "Publisher domain and email verified": "已驗證發佈者域名和電子郵件",
             "Creator verified by GitHub": "創建者經 GitHub 驗證",
 
         // 待處理訂單頁面 https://github.com/marketplace/orders/pending
@@ -15812,7 +15812,7 @@ I18N.zh["marketplace"] = { // GitHub 市場
             // 左側資訊欄
             "GitHub has verified that the application meets the": "GitHub 已驗證了該應用符合",
             "requirements for listing": "上架要求",
-            "GitHub has verified that the publisher controls the domain and meets other": "GitHub 已經驗證了發布者對該域名的控制權和滿足其他",
+            "GitHub has verified that the publisher controls the domain and meets other": "GitHub 已經驗證了發佈者對該域名的控制權和滿足其他",
             "requirements": "要求",
             "Categories": "類別",
             "App Type": "應用類型",
@@ -16454,7 +16454,7 @@ I18N.zh["orgs/settings/profile"] = { // 組織設定 - 組織資料
             "Organization profile": "基本資料",
                 "Profile picture": "我的頭像",
                     "Upload new picture": "上傳新頭像",
-                    "Note: To apply for a publisher verification your organization's profile picture should not be irrelevant, abusive or vulgar. It should not be a default image provided by GitHub.": "注意：需要申請發布者驗證，您的組織的個人資料圖片不應該是不相關的、辱罵性的或粗俗的。它不應該是由 GitHub 提供的默認圖片。",
+                    "Note: To apply for a publisher verification your organization's profile picture should not be irrelevant, abusive or vulgar. It should not be a default image provided by GitHub.": "注意：需要申請發佈者驗證，您的組織的個人資料圖片不應該是不相關的、辱罵性的或粗俗的。它不應該是由 GitHub 提供的默認圖片。",
                 "Organization display name": "組織顯示名稱",
                 "Email (will be public)": "公開電子信箱",
                 "Description": "描述",
@@ -16700,7 +16700,7 @@ I18N.zh["orgs/settings/member_privileges"] = { // 組織設定 - 成員權限
                         "Base permission updated to \"Admin\" for projects.": "項目的基本權限已更新為 “管理員”。",
 
                 "Pages creation": "頁面創建",
-                    "Members will be able to publish sites with only the selected access controls.": "成員將能夠發布僅只有選定的訪問控制的站點。",
+                    "Members will be able to publish sites with only the selected access controls.": "成員將能夠發佈僅只有選定的訪問控制的站點。",
                     // "Public": "公共",
                         "Members will be able to create public sites, visible to anyone.": "成員將能夠創建任何人都可見的公共站點。",
                     // "Private": "私有",
@@ -17212,7 +17212,7 @@ I18N.zh["orgs/settings/actions"] = { // 組織設定 - 操作
             // win 64
             "We recommend configuring the runner under \"\\actions-runner\". This will help avoid issues related to service identity folder permissions and long path restrictions on Windows.": "我們建議在 “\\actions-runner” 下配置運行器。這將有助於避免與 Windows 上的服務標識文件夾權限和長路徑限制相關的議題。",
             // macOS-arm64
-            "macOS-arm64 runners are currently in pre-release status and subject to change.": "macOS-arm64 的運行器目前處於預發布狀態，可能會有變化。",
+            "macOS-arm64 runners are currently in pre-release status and subject to change.": "macOS-arm64 的運行器目前處於預發佈狀態，可能會有變化。",
             "Configure": "設定",
             "Using your self-hosted runner": "使用您的自託管運行器",
             "For additional details about configuring, running, or shutting down the runner, please check out our": "關於配置、運行或關閉運行器的其他細節，請查看我們的",
@@ -17288,7 +17288,7 @@ I18N.zh["orgs/settings/projects"] = { // 組織設定 - 計劃 - 項目
         ...I18N.zh["orgs-settings-menu"]["static"],
 
         // 項目 /organizations/<org-login>/settings/projects
-            "Projects on GitHub help you organize and prioritize your work. You can create projects for specific feature work, comprehensive roadmaps, or even release checklists.": "GitHub 上的項目可以幫助您組織和安排工作的優先度。您可以為特定的功能工作、全面的路線圖、甚至是發布清單創建項目。",
+            "Projects on GitHub help you organize and prioritize your work. You can create projects for specific feature work, comprehensive roadmaps, or even release checklists.": "GitHub 上的項目可以幫助您組織和安排工作的優先度。您可以為特定的功能工作、全面的路線圖、甚至是發佈清單創建項目。",
             "Enable Projects for the organization": "啟用項目，為組織",
                 "This allows members to create projects for the": "允許成員創建項目，為",
                 "organization. Members can create projects to organize and track issues from any": "組織。成員可以創建項目來組織和跟蹤來自任何",
@@ -18084,15 +18084,15 @@ I18N.zh["orgs/settings/apps"] = { // 組織設定 - GitHub 應用
     ],
 };
 
-I18N.zh["orgs/settings/publisher"] = { // 組織設定 - GitHub 發布者驗證
+I18N.zh["orgs/settings/publisher"] = { // 組織設定 - GitHub 發佈者驗證
     "static": { // 靜態翻譯
         ...I18N.zh["orgs-settings-menu"]["static"],
 
-        // 發布者驗證 /organizations/<org-login>/settings/publisher
-            "There must be 1 or more GitHub/OAuth App registered by the organization to request publisher verification": "組織必須有 1 個或多個 GitHub/OAuth 應用才能請求發布者驗證",
-            "You can request publisher verification for your organization. A": "您可以為您的組織請求發布者驗證。一個",
-            "badge will be added to your apps published in the marketplace, recognizing that apps and other published materials were created by you.": "徽章將添加到您在市場上發布的應用中，以識別應用和其他已發布材料是由您創建的。",
-            "Learn more about publisher verification.": "了解更多關於發布者驗證的資訊。",
+        // 發佈者驗證 /organizations/<org-login>/settings/publisher
+            "There must be 1 or more GitHub/OAuth App registered by the organization to request publisher verification": "組織必須有 1 個或多個 GitHub/OAuth 應用才能請求發佈者驗證",
+            "You can request publisher verification for your organization. A": "您可以為您的組織請求發佈者驗證。一個",
+            "badge will be added to your apps published in the marketplace, recognizing that apps and other published materials were created by you.": "徽章將添加到您在市場上發佈的應用中，以識別應用和其他已發佈材料是由您創建的。",
+            "Learn more about publisher verification.": "了解更多關於發佈者驗證的資訊。",
 
     },
     "regexp": [ // 正則翻譯
@@ -18650,7 +18650,7 @@ I18N.zh["codespaces"] = { // 代碼空間頁面
                     "You do not have write access to this codespace's repository. This will create a new fork of the repository at": "您沒有對此代碼空間的儲存庫的寫訪問權限。這將創建一個新的儲存庫分支在",
                     ", reassign your codespace to that fork, and export your changes to a new branch.": "，將代碼空間重新分配給該復刻，並將更改導出到新分支。",
                     "Create fork": "創建復刻",
-                "Publish to a new repository": "發布到新倉庫", // 從模板創建
+                "Publish to a new repository": "發佈到新倉庫", // 從模板創建
                     "This will create a new repository and push up your work.": "這將創建一新倉庫，並推送您的工作。",
                     // 公共
                         "Anyone on the internet can see this repository. You choose who can commit.": "網路上的任何人都可以看到該倉庫。您可以選擇誰可以提交。",
@@ -18731,7 +18731,7 @@ I18N.zh["codespaces"] = { // 代碼空間頁面
             "new codespace": "新代碼空間",
     },
     "regexp": [
-        [/By ([^ ]+)/, "$1 發布"],
+        [/By ([^ ]+)/, "$1 發佈"],
         [/Owned by ([^ ]+)/, "擁有者為 $1"],
         [/Last used (\d+) days ago/, "上次使用 $1 天前"],
         [/Last used 大約 (\d+) 小時之前/, "上次使用大約 $1 小時以前"],
